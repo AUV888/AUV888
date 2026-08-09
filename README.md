@@ -1,6 +1,6 @@
 # 👋 Hi, I'm AUV888
 
-### 🎓 CS Student [@BUPT](https://www.bupt.edu.cn) <img src="https://vi.bupt.edu.cn/images/logo1.png" alt="BUPT" width="94" height="25"> | Intern  [@Kwai](https://github.com/kwai) <img src="https://avatars.githubusercontent.com/u/67735905?s=200&v=4" alt="Kwai" width="25" height="25">
+### 🎓 CS Student [@BUPT](https://www.bupt.edu.cn) <img src="./bupt.png" alt="BUPT" width="94" height="25"> | Intern  [@Kwai](https://github.com/kwai) <img src="./kwai.png" alt="Kwai" width="25" height="25">
 
 I build systems, write code, and learn by doing. Currently interning at **Kwai**, working on backend development with Java and TypeScript. I also have a soft spot for C — it's where I feel most at home.
 
