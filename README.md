@@ -15,7 +15,7 @@ I build systems, write code, and learn by doing. Currently interning at **Kwai**
 ---
 
 ## 🏗️ Projects I'm Proud Of
-### **🚀[DNS Relay](https://github.com/AUV888/DNS_Relay):** A simple but high performance DNS server implemented by POSIX C.
+### **🚀[SND (SND's Non-recursive DNS)](https://github.com/AUV888/DNS_Relay):** A simple but high performance DNS server implemented by POSIX C.
 - **Language:** POSIX C on Linux, GNU style arguments supported
 - **Performance:** **132,869 QPS**(full cache) · **9,218 QPS**(zero cache)
 - **Highlights:** Full DNS format, binary logging & parsing, zero copy optimization
@@ -30,7 +30,6 @@ I build systems, write code, and learn by doing. Currently interning at **Kwai**
 - Interning at Kwai
 - Attempting to do research focusing on Net & Sys
 - Exploring systems-level programming
-- Keeping my README short and my code cleaner
 
 ---
 
