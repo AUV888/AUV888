@@ -2,7 +2,7 @@
 
 ### 🎓 CS Student [@BUPT](https://www.bupt.edu.cn) <img src="./bupt.png" alt="BUPT" width="94" height="25"> | Intern  [@Kwai](https://github.com/kwai) <img src="./kwai.png" alt="Kwai" width="25" height="25">
 
-I build systems, write code, and learn by doing. Currently interning at **Kwai**, working on backend development with Java and TypeScript. I also have a soft spot for C — it's where I feel most at home.
+I build systems, write code, and learn by doing. Currently interning at **Kwai**, working as a Forward Deployed Engineer with Java and TypeScript, making promotions more effective. I also have a soft spot for C — it's where I feel most at home.
 
 ---
 
